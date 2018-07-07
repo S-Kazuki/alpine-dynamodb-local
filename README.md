@@ -1,2 +1,2 @@
-# alpine-dynamodb-local
-Lightweight DynamoDB docker image on alpine
+# stretch-dynamodb-local
+Lightweight DynamoDB docker image on stretch
